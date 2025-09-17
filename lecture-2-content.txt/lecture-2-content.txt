@@ -1,1 +1,3 @@
-today we will learn get advance concepts.
+today we will learn git advance concepts.
+1 st command git add. -> store any change we do in file
+git commit -m "message"-> commits a message
