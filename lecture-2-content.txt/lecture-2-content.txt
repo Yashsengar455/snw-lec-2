@@ -1,3 +1,6 @@
 today we will learn git advance concepts.
 1 st command git add. -> store any change we do in file
 git commit -m "message"-> commits a message
+git branch -> create a branch
+git cheakout branch name -> change branch
+git checkout -b name of branch -> create a branch and take you on that branch
